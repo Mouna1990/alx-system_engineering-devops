@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -s "https://raw.githubusercontent.com/bobbyhadz/star-wars-ascii/main/episode-iv-a-new-hope.txt" | cat
