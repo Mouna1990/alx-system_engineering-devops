@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$letter1$letter2" |!= "oo"
